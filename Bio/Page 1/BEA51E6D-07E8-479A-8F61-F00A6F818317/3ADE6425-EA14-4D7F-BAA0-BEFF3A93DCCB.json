@@ -2,7 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "BBFBA8DA-E705-4466-9331-873B2FA01122",
+  "do_objectID": "3ADE6425-EA14-4D7F-BAA0-BEFF3A93DCCB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,14 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 171,
-    "width": 132,
-    "x": 240,
-    "y": 619
+    "height": 416,
+    "width": 267,
+    "x": -185,
+    "y": 311
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/be01a59b7d5288bb4351981d6aed3c4298c93953.png",
+    "_ref": "images/09c4e175ed7744a162778d5c34f762731b044d31.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -33,22 +33,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "h01623A23",
+  "name": "034f59ca9a243d2786568603d8eb0a6a",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -50,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "colorControls": {
-      "_class": "colorControls",
-      "brightness": 0,
-      "contrast": 1,
-      "hue": 0,
-      "isEnabled": true,
-      "saturation": 1
-    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

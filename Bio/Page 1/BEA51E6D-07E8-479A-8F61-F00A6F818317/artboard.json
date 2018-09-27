@@ -30,7 +30,7 @@
     "y": -125
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,7 +50,43 @@
   "layers": [
     {
       "class": "bitmap",
+      "id": "B81B8B83-9064-474D-A871-7BAF9B155A1C"
+    },
+    {
+      "class": "bitmap",
+      "id": "2D34A94C-1654-4A06-AC02-333DE1B92688"
+    },
+    {
+      "class": "bitmap",
       "id": "BBFBA8DA-E705-4466-9331-873B2FA01122"
+    },
+    {
+      "class": "bitmap",
+      "id": "6C3F82F3-FFF4-49A5-8D9B-4594EB7724C7"
+    },
+    {
+      "class": "bitmap",
+      "id": "3A5B27D4-2E05-4DE4-9DDA-0EBA5C8CF18C"
+    },
+    {
+      "class": "bitmap",
+      "id": "E322818B-EBBB-475B-8E33-C6784C5534C3"
+    },
+    {
+      "class": "bitmap",
+      "id": "79B25C44-7380-4802-AA56-0002D31E0C36"
+    },
+    {
+      "class": "bitmap",
+      "id": "C7C5603F-F292-4FB6-A01B-7BD47C2445E9"
+    },
+    {
+      "class": "bitmap",
+      "id": "3ADE6425-EA14-4D7F-BAA0-BEFF3A93DCCB"
+    },
+    {
+      "class": "bitmap",
+      "id": "CB3D35CB-7A45-447E-9DA2-FE3620B6A80A"
     }
   ],
   "name": "Moodboard Collage",
